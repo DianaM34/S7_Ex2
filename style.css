@@ -1,0 +1,17 @@
+body{
+	text-align: right;
+	direction: rtl;
+}
+
+nav{
+	border: red solid 2px;
+}
+li{
+	list-style-type: none;
+	font-family: Tahoma;
+	font-size: 14px;
+	margin-right: 10px;
+}
+ul{
+	padding: 20px 0px;
+}
